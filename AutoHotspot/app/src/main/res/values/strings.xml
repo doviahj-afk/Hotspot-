@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoHotspot</string>
+    <string name="accessibility_service_description">Allows AutoHotspot to toggle the mobile hotspot on your behalf when it detects the hotspot is off after boot or restart.</string>
+</resources>
